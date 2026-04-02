@@ -1,0 +1,23 @@
+good-shyt-group:
+community-tech, ethical-ai, nonprofit-tech, youth-programs, sustainability, hospitality-tech, social-impact
+
+octatouch:
+gesture-engine, sdk, cross-platform, interaction-design, accessibility, input-systems, developer-tools
+
+aeon-sentinel:
+ethical-ai, ai-governance, trust-systems, safety-architecture, ai-frameworks, agent-systems
+
+github-upload:
+github, repository-management, repo-cleanup, automation, developer-tools, publishing-workflows
+
+agent-github-deploy:
+deployment, ci-cd, github-actions, automation, release-engineering, devops
+
+frontend-design:
+frontend, design-systems, ui-architecture, react, nextjs, user-experience, product-design
+
+mcp-builder:
+mcp, agent-tools, protocol, integrations, developer-platform, ai-workflows
+
+skill-creator:
+templates, automation, agent-skills, workflows, prompts, productivity, tooling
