@@ -1,0 +1,8 @@
+good-shyt-group — Ethical systems, community infrastructure, and impact-oriented technical architecture.
+octatouch — Cross-platform gesture engine and universal interaction architecture.
+aeon-sentinel — Trust-first AI systems, governance logic, and conscience-aware computation.
+github-upload — Repository intake, cleanup, structuring, and premium publishing workflows.
+agent-github-deploy — Deployment automation, release flows, and GitHub publishing systems.
+frontend-design — Premium UI systems, interaction design, and frontend architecture patterns.
+mcp-builder — Context-protocol tooling, integrations, and agent workflow infrastructure.
+skill-creator — Reusable skills, templates, and workflow packs for agent-native building.
